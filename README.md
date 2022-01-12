@@ -264,6 +264,7 @@ P.P.S, Looking for guides and interviews on applying ML? 👉[`applyingML`](http
 54. [Stitching together spaces for query-based recommendations](https://multithreaded.stitchfix.com/blog/2021/08/13/stitching-together-spaces-for-query-based-recommendations/) `Stitch Fix` `2021`
 55. [Deep Natural Language Processing for LinkedIn Search Systems](https://arxiv.org/abs/2108.08252) ([Paper](https://arxiv.org/pdf/2108.08252.pdf)) `LinkedIn` `2021`
 56. [Siamese BERT-based Model for Web Search Relevance Ranking Evaluated on a New Czech Dataset](https://arxiv.org/abs/2112.01810) ([Paper](https://arxiv.org/pdf/2112.01810.pdf), [Code](https://github.com/seznam/DaReCzech)) `Seznam` `2021`
+57. [How to Kill Two Birds with One Stone: Learning to Rank with Multiple Objectives](https://haystackconf.com/europe2019/learning-to-rank-with-multiple-objectives/), [Slides](https://haystackconf.com/files/slides/HaystackEU2019_Multiple_objectives.pptx)
 
 ## Embeddings
 1. [Vector Representation Of Items, Customer And Cart To Build A Recommendation System](https://arxiv.org/abs/1705.06338) ([Paper](https://arxiv.org/pdf/1705.06338.pdf)) `Sears` `2017`
